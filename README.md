@@ -1,2 +1,2 @@
 # SasizzApp
-A very worst sassizza manager
+Worst sassizza manager
